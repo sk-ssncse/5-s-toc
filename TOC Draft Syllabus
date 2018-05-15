@@ -1,0 +1,41 @@
+THEORY OF COMPUTATION
+
+COURSE OBJECTIVES: 
+The students should be made to: 
+1. Understand various Computing models like Finite State Machine, Pushdown Automata, and 
+       Turing Machine. 
+2. Be aware of Decidability and Undecidability of various problems
+3. Learn types of grammars.
+
+UNIT I FINITE AUTOMATA 									9 
+Introduction-Basic Mathematical Notation and techniques-Finite State systems –Basic Definitions–Finite Automaton –DFA & NDFA–Finite Automaton with €-moves –Regular Languages-Regular Expression –Equivalence of NFA and DFA –Equivalence of NDFA’s with and without €-moves –Equivalence of finite Automaton and regular expressions –Minimization of DFA--Pumping Lemma for Regular sets –Problems based on Pumping Lemma.
+
+UNIT II GRAMMARS 										9 
+Grammar Introduction– Types of Grammar - Context Free Grammars and Languages– Derivations and Languages – Ambiguity- Relationship between derivation and derivation trees – Simplification of CFG – Elimination of Useless symbols - Unit productions - Null productions – Greibach Normal form – Chomsky normal form – Problems related to CNF and GNF.
+
+UNIT III PUSHDOWN AUTOMATA 								9 
+Pushdown Automata- Definitions – Moves – Instantaneous descriptions – Deterministic pushdown automata – Equivalence of Pushdown automata and CFL - pumping lemma for CFL – problems based on pumping Lemma.
+
+UNIT IV TURING MACHINES 									9 
+Definitions of Turing machines – Models – Computable languages and functions –Techniques for Turing machine construction – Multi head and Multi tape Turing Machines - The Halting problem – Partial Solvability – Problems about Turing machine- Chomsky hierarchy of languages. 
+
+UNIT V UNSOLVABLE PROBLEMS AND COMPUTABLE FUNCTIONS 				9 
+Unsolvable Problems and Computable Functions – Primitive recursive functions – Recursive and recursively enumerable languages – Universal Turing machine. Measuring and Classifying Complexity: Tractable and Intractable problems- Tractable and possibly intractable problems - P and NP completeness - Polynomial time reductions.
+
+TOTAL: 45 PERIODS
+OUTCOMES: At the end of the course, the student should be able to: 
+1. Design Finite State Machine, Pushdown Automata, and Turing Machine for different problems.
+2. Explain the notion of Decidability, Undecidability, hardness and completeness of various problems
+3. Explain the differences in the computing power of various models.
+
+TEXT BOOKS:
+1. Hopcroft J.E., Motwani R. and Ullman J.D, “Introduction to Automata Theory, Languages and
+Computations”, Third Edition, Pearson Education, 2008. 
+2. Peter Linz, “An Introduction to Formal Language and Automata”, Sixth Edition, Jones & Bartlett 2016.
+3. Michael Sipser, “Introduction to the Theory of Computation”, Third Edition, Cengage, 2014.
+
+REFERENCES: 
+1. Mishra K L P and Chandrasekaran N, “Theory of Computer Science - Automata, Languages and Computation”, Third Edition, Prentice Hall of India, 2006.
+2. Harry R Lewis and Christos H Papadimitriou, “Elements of the Theory of Computation”, Second Edition, Pearson Education, New Delhi, 2015. 
+3. John C Martin, “Introduction to Languages and the Theory of Computation”, Third Edition, Tata McGraw Hill Publishing Company, New Delhi, 2007.
+4.Kamala Krithivasan and Rama. R, “Introduction to Formal Languages, Automata Theory and Computation”, Pearson Education 2009
